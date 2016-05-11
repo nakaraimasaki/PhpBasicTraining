@@ -11,5 +11,4 @@ $d[5]="研修";
 foreach ( $d as $value ) {
   echo $value ."<br/>";
 }
-
 ?>
